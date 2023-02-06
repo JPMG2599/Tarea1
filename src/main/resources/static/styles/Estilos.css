@@ -1,0 +1,59 @@
+body{
+    width: 900px;
+    background-color: antiquewhite;
+    margin: auto;
+    font-family: Arial;
+
+}
+
+nav li{
+    display: inline-block;
+    padding: 5px;
+}
+
+header{
+    font-size: 125%;
+}
+
+h1{
+    background-color: darkblue;
+    color: white;
+    text-align: center;
+    margin-bottom: 0px;
+}
+nav ul{
+    margin: 0px;
+}
+
+.menuSuperior{
+    font-size: large;
+}
+
+table{
+    margin: auto;
+    border-style: solid ;
+    border-color: blue;
+    font-size: larger;
+    background-color: white;
+
+}
+
+h2{
+    border-style: solid;
+    color: black;
+    text-align: center;
+    margin-bottom: 0px;
+}
+
+form{
+    border: groove;
+    border-color: black;
+    display: block;
+    width: 650px;
+    margin: 0 auto;
+}
+label{
+    width: 100px;
+    display: inline-block;
+    margin: 10px;
+}
